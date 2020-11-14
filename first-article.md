@@ -1,11 +1,11 @@
 Title: Боль при создании блога на Pelican 
-Description: Моя боль при создании блога на генераторе Pelican. Сумбурно и коротко.
-Date: 2020-11-13
-Author: rate1
-Category: Tutorials
-Tags: pelican, боль
-Slug: bol-pri-sozdanii-bloga-na-pelican
-Status: published
+Description: Моя боль при создании блога на генераторе Pelican. Сумбурно и коротко.  
+Date: 2020-11-13  
+Author: rate1  
+Category: Tutorials  
+Tags: pelican, боль  
+Slug: bol-pri-sozdanii-bloga-na-pelican  
+Status: published  
 
 Для себя определился, что лучшее решение для ведения блога - статически сгенерированный блог. На это есть много причин:
 
