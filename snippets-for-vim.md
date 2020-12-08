@@ -2,7 +2,7 @@ Title: Сниппеты для Vim с помощью плагина snipmate (н
 Summary: Установка плагина snipmate для vim и настройка своих сниппетов для Pelican и Assembler.
 Date: 2020-12-08
 Author: rate1  
-Category: Tutorials, Vim
+Category: Vim
 Tags: vim, pelican, assembler
 Slug: snippets-for-vim
 Status: published
