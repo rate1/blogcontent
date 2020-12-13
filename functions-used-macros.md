@@ -3,7 +3,7 @@ Summary: Создание функций в Assembler masm32 с использо
 Date: 2020-12-13
 Author: rate1  
 Category: Assembler
-Tags: assembler, masm32, макросы, функции
+Tags: assembler, masm32, макросы, функции, локальные переменные
 Slug: funkcii-pri-pomoshi-makrosov
 Status: published
 
