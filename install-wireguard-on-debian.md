@@ -5,7 +5,7 @@ Author: rate1
 Category: Linux
 Tags: linux, vpn, приватность
 Slug: install-wireguard-on-debian-10
-Status: draft
+Status: published
 
 ## WireGuard 
 **WireGuard** - это протокол связи и софт с открытым исходным кодом, реализующий зашифрованные VPN-сети. Протокол WireGuard передает трафик через UDP. Официальный сайт протокола [WireGuard](https://www.wireguard.com/).  
